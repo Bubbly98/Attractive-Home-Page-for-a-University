@@ -1,6 +1,10 @@
-# Tech Mentors
-This is a website for an institute that provides higher studies online
-------------Features of the website are-----------
-1.Users can browse courses/programs by category
-2.view customized courses with particulars including fees,duration, pre-qualifications, etc. 
-3.other details likehistory, contact number, and affiliations.
+# University-Home-Page
+This is an attractive Home page for STANFORD university.
+It includes the following information,
+
+-> Navigation bar (Home, Faculties, Contact us)
+-> Main banner
+-> Information about the university
+-> Footer (Facebook link, YouTube channel link)
+
+This is a simple University Homepage designed using Html & css.
